@@ -1,0 +1,5 @@
+- **Tree: Height of a Binary Tree** → [LeetCode 104 – Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) *(LeetCode counts nodes/depth, not edges/height — its answer is always +1 vs. HackerRank's)*
+- **Delete duplicate-value nodes from a sorted linked list** → [LeetCode 83 – Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) *(identical problem)*
+- **Good Subarrays** → [Codeforces 1398C – Good Subarrays](https://codeforces.com/problemset/problem/1398/C) *(the original source problem; not on LeetCode)*
+- **Network Coverage** → [LeetCode 968 – Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/) *(same problem, reskinned as a storm/relay-station story)*
+- **Insert a node at a specific position in a linked list** → [LeetCode 707 – Design Linked List](https://leetcode.com/problems/design-linked-list/) *(closest match via its `addAtIndex` method; no direct 1:1 equivalent on LeetCode)*
